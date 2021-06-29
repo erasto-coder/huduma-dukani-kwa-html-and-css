@@ -1,0 +1,188 @@
+    body {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: rgb(28, 194, 216);
+        background-image: url(image/home.jpg);
+    }
+    
+    .ol_home {
+        color: rgb(218, 31, 186);
+        font-family: monospace;
+        opacity: 100%;
+        font-weight: 500px;
+        font-size: 30px;
+        background-position: center;
+        background-size: cover;
+    }
+    
+    .body_contact {
+        background-image: url(image/contact.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: rgb(126, 238, 13);
+    }
+    
+    .body_huduma {
+        background-image: url(image/service.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: rgb(126, 238, 13);
+    }
+    
+    .body_about {
+        background-image: url(image/about.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: rgb(22, 27, 17);
+    }
+    
+    .home_image {
+        image-resolution: 100%;
+        width: 900px;
+        height: 500px;
+        margin-top: 20px;
+    }
+    
+    .link {
+        color: rgb(94, 124, 94);
+        text-decoration: none;
+        text-decoration-line: overline;
+        font-size: 20px;
+        color: black;
+        font-weight: 800px;
+        text-decoration-line: none;
+        font-display: none;
+    }
+    
+    .link_contact {
+        padding-top: 50px;
+    }
+    
+    .link_service {
+        padding-top: 50px;
+    }
+    
+    .link_register {
+        text-decoration: none;
+    }
+    
+    .link_about {
+        padding-top: 50px;
+    }
+    
+    button {
+        color: rgb(240, 10, 10);
+        text-align: center;
+    }
+    
+    footer {
+        color: black;
+        text-indent: 200px;
+        padding-top: 30px;
+        padding-left: 1000px;
+    }
+    
+    .footer_contact {
+        color: rgb(247, 9, 9);
+        text-indent: 200px;
+        padding-top: 30px;
+        padding-left: 1000px;
+    }
+    
+    .center_form {
+        background-size: cover;
+        margin-left: 500px;
+        margin-right: 500px;
+        height: 400px;
+        width: 300px;
+    }
+    
+    .form {
+        height: 500px;
+        font-family: sans-serif;
+        border: 3px solid;
+        opacity: 100%;
+        background-size: contain;
+        background-color: whitesmoke;
+        line-height: 1.6px;
+        background-image: url(image/fomu.jpg);
+        color: whitesmoke;
+        height: auto;
+        width: inherit;
+    }
+    
+    .body_register {
+        background-image: url(image/contact.jpg);
+    }
+    
+    button {
+        text-align: center;
+        color: rgb(255, 0, 0);
+    }
+    
+    table,
+    td,
+    th,
+    tr {
+        border: 2px solid;
+        border-collapse: collapse;
+        padding-left: 100px;
+        padding-top: 20px;
+    }
+    
+    table {
+        padding-top: 20px;
+    }
+    
+    th {
+        font-family: fantasy;
+        text-transform: uppercase;
+    }
+    
+    td {
+        font-family: monospace;
+        font-size: 20px;
+        color: rgb(21, 22, 21);
+    }
+    
+    .center_table {
+        padding-top: 30px;
+    }
+    
+    ol {
+        padding-left: 290px;
+        padding-top: 30px;
+        text-transform: capitalize;
+    }
+    
+    ul {
+        padding-left: 290px;
+        padding-top: 30px;
+        text-transform: capitalize;
+    }
+    
+    .checkbox {
+        padding-left: 290px;
+        width: 120px;
+    }
+    
+    .submit {
+        size: small;
+    }
+    
+    a {
+        text-decoration-line: none;
+    }
+    
+    p {
+        padding-top: 3px;
+    }
+    
+    a {
+        text-decoration-line: none;
+    }
+    
+    .center_images {
+        opacity: 100%;
+        color: red;
+    }
